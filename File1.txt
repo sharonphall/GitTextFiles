@@ -1,1 +1,11 @@
 This is my first sentence
+myString = 'abcdefghij'
+for char in myString:
+	print(char)
+	
+
+print("all done now")
+
+print("This is done only in myBranch")
+
+CAT CAT CAT
